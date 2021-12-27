@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "integration-testing-for-vmmrui",
+    "demo_test": "integration-testing-for-vmmrui"
+  },
+  "targets": {}
+}
